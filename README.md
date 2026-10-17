@@ -1,8 +1,8 @@
-# SáezTV
+# SáezIPTV
 
 Reproductor IPTV para **Android TV, Fire TV y móviles Android**.
 
-SáezTV es solo un reproductor: **no incluye canales, películas ni listas**. Cada usuario añade su propia lista (Xtream Codes o enlace m3u).
+SáezIPTV es solo un reproductor: **no incluye canales, películas ni listas**. Cada usuario añade su propia lista (Xtream Codes o enlace m3u).
 
 ## Descargar
 

@@ -12,11 +12,13 @@ SáezTV es solo un reproductor: **no incluye canales, películas ni listas**. Ca
 
 1. Instala **Downloader** (de AFTVnews) desde la tienda de tu tele.
 2. Permite que Downloader instale apps: *Ajustes → Mi Fire TV / Dispositivo → Opciones para desarrolladores → Instalar apps desconocidas → Downloader → Activado*.
-3. Abre Downloader y escribe esta dirección:
+3. Abre Downloader y escribe el código:
 
    ```
-   https://github.com/SaezCM/SaezTV/releases/latest/download/SaezTV.apk
+   5684170
    ```
+
+   (o la dirección completa: `https://github.com/SaezCM/SaezTV/releases/latest/download/SaezTV.apk`)
 
 4. Pulsa **Go**, espera a que se descargue y pulsa **Instalar**.
 
